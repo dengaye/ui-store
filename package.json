@@ -1,0 +1,23 @@
+{
+  "name": "@dengaye/ui-store",
+  "version": "0.0.2",
+  "description": "This is a npm package",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "release": "./npm-release.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengaye/ui-store.git"
+  },
+  "author": "@dengaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengaye/ui-store/issues"
+  },
+  "homepage": "https://github.com/dengaye/ui-store#readme"
+}
